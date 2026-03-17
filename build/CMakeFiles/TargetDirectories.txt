@@ -1,0 +1,14 @@
+/home/runner/work/secgw/secgw/build/CMakeFiles/gm_crypto.dir
+/home/runner/work/secgw/secgw/build/CMakeFiles/gm_dpdk.dir
+/home/runner/work/secgw/secgw/build/CMakeFiles/test_sm3.dir
+/home/runner/work/secgw/secgw/build/CMakeFiles/test_sm4.dir
+/home/runner/work/secgw/secgw/build/CMakeFiles/test_sm2.dir
+/home/runner/work/secgw/secgw/build/CMakeFiles/test_ipsec.dir
+/home/runner/work/secgw/secgw/build/CMakeFiles/test_all.dir
+/home/runner/work/secgw/secgw/build/CMakeFiles/test.dir
+/home/runner/work/secgw/secgw/build/CMakeFiles/edit_cache.dir
+/home/runner/work/secgw/secgw/build/CMakeFiles/rebuild_cache.dir
+/home/runner/work/secgw/secgw/build/CMakeFiles/list_install_components.dir
+/home/runner/work/secgw/secgw/build/CMakeFiles/install.dir
+/home/runner/work/secgw/secgw/build/CMakeFiles/install/local.dir
+/home/runner/work/secgw/secgw/build/CMakeFiles/install/strip.dir

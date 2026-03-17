@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -Wno-unused-parameter -Wno-sign-compare -O0 -g3 -DDEBUG -Wl,--dependency-file=CMakeFiles/test_sm3.dir/link.d CMakeFiles/test_sm3.dir/tests/test_sm3.c.o -o test_sm3  libgm_crypto.a
