@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgm_dpdk.a CMakeFiles/gm_dpdk.dir/src/dpdk/dpdk_gm_crypto.c.o
+/usr/bin/ranlib libgm_dpdk.a
